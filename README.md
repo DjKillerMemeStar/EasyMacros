@@ -40,4 +40,4 @@ Currently there are 4 commands available.
 	- Opens a program
 
 ## Special symbols
-Its possible to use special symbols just the same way as you would in luamacros, a list of these can be found [here]([https://github.com/me2d13/luamacros/wiki/List-of-Keys](https://github.com/me2d13/luamacros/wiki/List-of-Keys)).
+Its possible to use special symbols just the same way as you would in luamacros, a list of these can be found [here](https://github.com/me2d13/luamacros/wiki/List-of-Keys).
