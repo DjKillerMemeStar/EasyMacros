@@ -1,0 +1,4 @@
+C || spawn || calc
+R || refresh || *
+L || keys || These keys aree{BACKSPACE} send very fast!
+I || Slow || These keys aree{BACKSPACE} send pretty slow!
