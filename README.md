@@ -6,7 +6,7 @@ EasyMacros is a script for [luamacros](https://github.com/me2d13/luamacros) with
 This script is not finished! Neither is the guide. You can still use it but if you find anything wierd or unclear let me know!
 
 ## Installation
-- Make sure you have succesfully installed [luamacros](https://github.com/me2d13/luamacros#binary-download) (Download binaries)
+- Make sure you have succesfully unzipped and started [luamacros](https://github.com/me2d13/luamacros#binary-download) (Download binaries)
 - Create a "EasyMacros" folder in the same folder as your luamacros.exe
 - Place all files from this repo in that folder.
 
