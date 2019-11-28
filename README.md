@@ -12,8 +12,9 @@ This script is not finished! Neither is the guide. You can still use it but if y
 
 ## Getting started
 
- 1. Download this repo.
- 2. Run the "FindKeyboard.lua" script with luamacros.
+ 1. press the first icon (open).
+    - Select: the "FindKeyboard.lua" file.
+ 2. Press the blue arrow, and then press a key of the keyboard you want to use as a macro keyboard.
  3. The id of your macro keyboard starts with 'MACROS' and is between the '&' symbols
 	- For example: MACROS  :  \\?\ACPI#DLLK07A9#4&**32F00E5A**&0#{884B96C3-56EF-11D1-BC8C-00A0C91405DD} [65618] :  keyboard
 	- Wil result in: 32F00E5A
@@ -25,7 +26,9 @@ This script is not finished! Neither is the guide. You can still use it but if y
  7. Start the luamacros.exe .
  8. press the first icon (open).
     - Select: the "main.lua" file.
-  9. Press the blue arrow, and your done!
+ 9. Press the blue arrow, and your done!
+ 
+ Luamacros sits in the system tray (bottom right), if there is anything wrong you can find and close it there.
 
 ## Commands
 Currently there are 4 commands available.
