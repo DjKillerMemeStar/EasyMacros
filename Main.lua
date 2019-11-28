@@ -1,4 +1,4 @@
-local file = 'commands.txt'
+local file = 'EasyMacros\\commands.txt'
 --To find the keyboardId, run the keyboardFinder.lua script
 local keyboardId = '32F00E5A'
 
